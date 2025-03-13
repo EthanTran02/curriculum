@@ -7,7 +7,6 @@
     "MD003": {
       "style": "atx"
     },
-    // ul-style
     // Enforces dash syntax for unordered lists
     "MD004": {
       "style": "dash"
