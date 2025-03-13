@@ -12,7 +12,7 @@
     "MD004": {
       "style": "dash"
     },
-    // line-length
+
     // Avoids errors related to line lengths in the MD files
     "MD013": {
       "code_blocks": false,
