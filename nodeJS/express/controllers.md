@@ -180,6 +180,8 @@ const authorRouter = Router();
 
 // ... other route handlers
 authorRouter.get("/:authorId", getAuthorById);
+
+module.exports = authorRouter;
 ```
 
 Let's break down what's happening in this controller:
